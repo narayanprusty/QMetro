@@ -1,0 +1,70 @@
+body, html
+{
+	overflow-x: scroll;
+	overflow-y: hidden;
+	height: 100%;
+	width: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	background-color: #bf5a15 !important;
+}
+
+.metro h1
+{
+	color: white;
+}
+
+.tiles-group
+{
+	width: auto;
+	height: 90%;
+	overflow-x: visible;
+	white-space: nowrap;
+	margin-top: 80px;
+}
+
+.tile-col1
+{
+	width: auto;
+	max-width: 260px;
+	display: inline-block;
+	height: 100%;
+	margin-right: 30px;	
+}
+
+.tile-col2
+{
+	width: auto;
+	max-width: 520px;
+	display: inline-block;
+	height: 100%;
+	margin-right: 30px;
+}
+
+.tile-col3
+{
+	width: auto;
+	max-width: 780px;
+	display: inline-block;
+	height: 100%;
+	margin-right: 30px;
+}
+
+.tile-col4
+{
+	width: auto;
+	max-width: 1040px;
+	display: inline-block;
+	height: 100%;
+	margin-right: 30px;
+}
+
+.tile-col5
+{
+	width: auto;
+	max-width: 1300px;
+	display: inline-block;
+	height: 100%;
+	margin-right: 30px;
+}
