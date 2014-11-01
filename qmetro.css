@@ -13,6 +13,7 @@ body, html
 .metro h1
 {
 	color: white;
+        position: fixed;
 }
 
 .tiles-group
